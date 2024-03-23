@@ -63,21 +63,27 @@ plot_pacf(ARMA_2)
 ```
 ### OUTPUT:
 SIMULATED ARMA(1,1) PROCESS:
+
 ![image](https://github.com/Yamunaasri/TSA_EXP4/assets/115707860/6679cb56-21ab-431f-8e87-e3d5bc9762d1)
 
 Partial Autocorrelation
+
 ![image](https://github.com/Yamunaasri/TSA_EXP4/assets/115707860/75a682bb-23e3-4d55-a178-dcba5549225d)
 
 Autocorrelation
+
 ![image](https://github.com/Yamunaasri/TSA_EXP4/assets/115707860/0baf181f-f390-4f67-bba6-4b6d175cd9ad)
 
 SIMULATED ARMA(2,2) PROCESS:
+
 ![image](https://github.com/Yamunaasri/TSA_EXP4/assets/115707860/429c1676-eaf8-412f-9f1f-961544bbe3f0)
 
 Partial Autocorrelation
+
 ![image](https://github.com/Yamunaasri/TSA_EXP4/assets/115707860/1007b658-18d4-4330-ba2e-a1b9fe2a6507)
 
 Autocorrelation
+
 ![image](https://github.com/Yamunaasri/TSA_EXP4/assets/115707860/748164ec-bf14-4365-b1ac-39042cca7668)
 
 ### RESULT:
